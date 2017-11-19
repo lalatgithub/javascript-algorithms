@@ -1,5 +1,5 @@
 /*
-Move each character of the string by the provided number of position and return new string
+Move each character of the string by provided number of position and return new string
 E.g:
     caesarCipher("car", 2)
     output: ect
