@@ -1,5 +1,5 @@
 ### Algorithms in Javascript
-###### Basics Algorithms implemented in Javascript
+###### Basic Algorithms implemented in Javascript
 1. FizzBuzz
 2. Harmless Ransom Note
 3. Palindrome
