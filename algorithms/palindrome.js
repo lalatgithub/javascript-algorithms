@@ -5,10 +5,7 @@ function isPalindrome(str){
     const strArr = str.split("");
     
     const newStrArr = strArr.filter(char => validCharsArr.indexOf(char) !== -1);
-    console.log(newStrArr);
-    
     return newStrArr.join("") === newStrArr.reverse().join("");
-    
     
     /*
         without using array functions i.e join() and reverse()
