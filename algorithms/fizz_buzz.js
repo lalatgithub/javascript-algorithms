@@ -1,8 +1,9 @@
-// FizzBuzz
-// print numbers from 1 to N. 
-// Print Fizz if number is divisible by 3. 
-// Print Buzz if number is divisible by 5. 
-// Print FizzBuzz if divisible by both 3 and 5
+/* 
+print numbers from 1 to N. 
+print Fizz if number is divisible by 3. 
+print Buzz if number is divisible by 5. 
+print FizzBuzz if divisible by both 3 and 5
+*/
 
 function fizzBuzz(num) {
     
