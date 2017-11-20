@@ -14,8 +14,7 @@ function reverseArray(arr){
         arr[arr.length - (i+1)] = tmp;
     }
     
-    return arr
-    
+    return arr   
 }
 
 reverseArray([1, 2, 3, 4, 5]);
