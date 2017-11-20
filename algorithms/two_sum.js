@@ -23,7 +23,8 @@ function twoSum(arr, sum){
     
 }
 
-twoSum([1, 5, 3, 8, 6, 12, 9, 4], 7);
+const arr = [1, 5, 3, 8, 6, 12, 9, 4];
+twoSum(arr, 7);
 
 
 
