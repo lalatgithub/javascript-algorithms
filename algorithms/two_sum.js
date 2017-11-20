@@ -1,6 +1,6 @@
 /*
 
-    Return all pairs of elements which is equal to the provided sum
+    Return all pairs of elements whos sum is equal to the provided sum
 
 */
 
