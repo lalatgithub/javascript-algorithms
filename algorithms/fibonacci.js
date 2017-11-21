@@ -1,6 +1,7 @@
 /*
 
     Return Fibonacci of a given number
+    Big O of fibonacci is O(2^n)
 
 */
 
