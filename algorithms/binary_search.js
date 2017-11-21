@@ -1,8 +1,8 @@
  /*
 
     Search a give key from a provided array.
-    Use recursion to avoid time complexity of O(n) 
-
+    Use recursion to avoid time complexity of O(n)
+    The target time complexity is O(Log n)
 */
 
 
