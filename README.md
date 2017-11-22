@@ -12,4 +12,5 @@
 8. Quick Sort
 9. Binary Search
 10. Fibonacci
-11. Bubble Sort
+12. Factorial
+12. Bubble Sort
